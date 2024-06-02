@@ -1,0 +1,14 @@
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.exe
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.deps.json
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.runtimeconfig.json
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.dll
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\bin\Debug\net7.0\NewTalents.pdb
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfoInputs.cache
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfo.cs
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.csproj.CoreCompileInputs.cache
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.dll
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\obj\Debug\net7.0\refint\NewTalents.dll
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.pdb
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\obj\Debug\net7.0\NewTalents.genruntimeconfig.cache
+F:\BACKUP\Documents\Lorena Camila\DIO\.Net Developer - Avanade (04-24)\projetos\NewTalents\NewTalents\obj\Debug\net7.0\ref\NewTalents.dll
